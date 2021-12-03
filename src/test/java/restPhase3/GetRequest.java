@@ -1,6 +1,7 @@
 package restPhase3;
 
 
+import org.testng.annotations.Test;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
